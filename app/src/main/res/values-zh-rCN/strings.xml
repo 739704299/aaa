@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">你好</string>
+    <string name="over">完成</string>
+    <string name="happybrithday">生日快乐</string>
+</resources>
